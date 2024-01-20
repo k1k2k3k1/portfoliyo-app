@@ -1,0 +1,73 @@
+[
+    {
+        "id": "1",
+        "name": "Khushbu",
+        "bankAccountNo": "12345678",
+        "bankName": "HDFC",
+        "addressLine1": "Beohari",
+        "addressLine2": "Shahdol",
+        "city": " Shahdol ",
+        "country": "India",
+        "zipCode": "1234"
+  
+      },
+      {
+        "id": "2",
+        "name": "Dolly",
+        "bankAccountNo": "234567",
+        "bankName": "Uniyan bank",
+        "addressLine1": "UP",
+        "addressLine2": "Rampur",
+        "city": " UP ",
+        "country": "India",
+        "zipCode": "2345"
+  
+      },
+    {
+      "id": "3",
+      "name": "Goldi",
+      "bankAccountNo": "67894",
+      "bankName": "SBI",
+      "addressLine1": "Agra",
+      "addressLine2": "UP",
+      "city": " UP",
+      "country": "India",
+      "zipCode": "5678"
+
+    },{
+        "id": "4",
+        "name": "Prakash",
+        "bankAccountNo": "67890",
+        "bankName": "HDFC",
+        "addressLine1": "Jammu",
+        "addressLine2": "jammu",
+        "city": " Jammu",
+        "country": "India",
+        "zipCode": "90876"
+  
+      },
+      {
+        "id": "5",
+        "name": "Vivek",
+        "bankAccountNo": "79800",
+        "bankName": "Kenra",
+        "addressLine1": "Jaslmer",
+        "addressLine2": "Rajisthan",
+        "city": " Rajisthan",
+        "country": "Rajisthan",
+        "zipCode": "0987"
+  
+      },{
+          "id": "6",
+          "name": "Madhu",
+          "bankAccountNo": "67890",
+          "bankName": "SBI",
+          "addressLine1": "Delhi",
+          "addressLine2": "Delhi",
+          "city": "Delhi ",
+          "country": "India",
+          "zipCode": "0034"
+    
+        }
+  ]
+  
